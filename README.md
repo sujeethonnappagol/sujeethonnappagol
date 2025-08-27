@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software Engineer
+A passinate developer from india
 
 
 ## 🌐 Socials:
