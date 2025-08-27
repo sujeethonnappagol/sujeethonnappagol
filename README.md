@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passinate developer from india
+A passionate developer from India
 
 
 ## 🌐 Socials:
